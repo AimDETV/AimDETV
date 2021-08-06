@@ -10,6 +10,7 @@
 ### I'm learning:
 
 - Java (☕)
+- C# (#️)
 - more soon...
 
 ### My social media:
