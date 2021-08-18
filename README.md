@@ -10,6 +10,7 @@
 ### I'm learning:
 
 - Java (☕)
+- Python (🐍)
 - C# (#️)
 - more soon...
 
