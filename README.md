@@ -29,15 +29,6 @@
 
 ### More Details:
 <details>
-  <summary>:zap: Information about my person</summary>
-
-  - My name is Timo
-  - I'm currently 14 y/o
-  - I'm interested in Java Development
-  - And I would like to learn more programming languages in the future
-  
-</details>
-<details>
   <summary>:zap: My GitHub Stats</summary>
 
   <img align="left" alt="AimDE's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AimDETV&show_icons=true&theme=tokyonight" />
